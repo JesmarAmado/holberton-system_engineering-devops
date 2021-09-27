@@ -1,1 +1,1 @@
-Scripts de Entrada/Salida
+Scripts de Entrada/Salida.
