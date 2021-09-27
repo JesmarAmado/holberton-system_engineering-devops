@@ -1,2 +1,2 @@
 #!/bin/bash
-cat > "\*\\'"Best\ School"\'\\*$\?\*\*\*\*\*:)"  | hola.txt
+echo "Best School" > "\*\\'"Best\ School"\'\\*$\?\*\*\*\*\*:)"
