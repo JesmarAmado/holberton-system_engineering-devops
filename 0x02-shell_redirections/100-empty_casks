@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a1 | find * -maxdepth 2 -type d,f  -empty
+find * -maxdepth 2 -type d,f  -empty
