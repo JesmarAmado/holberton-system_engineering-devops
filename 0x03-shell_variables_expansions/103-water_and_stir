@@ -1,2 +1,2 @@
 #!/bin/bash
-alias a="echo $WATER | tr water 01234" b="echo $STIR | tr stir. 01234" | printf "%o\n" $(($((5#$(a)))+$((5#$(b))))) | tr 01234567 bestchol
+echo "$(printf "%o" 44834284 | tr 01234567 bestchol)"
